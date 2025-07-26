@@ -121,7 +121,3 @@ Metrics:
 We conclude the following:
 
 Inception-ResNet-V2 works exceptionally well with higher accuracy and moderate loss.
-
-### ✒️ **Your Signature**
-
-Original Contributor: Arihant Bhandari [https://github.com/Arihant-Bhandari]
